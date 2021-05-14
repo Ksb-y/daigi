@@ -1,0 +1,43 @@
+body{
+  font-size: 200%;
+  
+      width: 100%;
+      height:100vh;
+      background-position: center center; 
+      background-repeat: no-repeat;  
+      background-attachment: fixed; 
+      background-size: cover;
+      
+  
+     
+      
+     }
+     body p{
+      font-family: "HGP創英角ｺﾞｼｯｸUB"; 
+      line-height: 50px;
+     }
+     .title{
+         
+      font-family: "HGP創英角ｺﾞｼｯｸUB" ;
+      text-align:  center;        /* 中央寄せ */
+     }
+     h1{
+      text-align:center;
+     }
+
+     h2{
+      text-align:center;
+     }
+     .box1 {
+      padding: 0.5em 1em;
+      margin: 1em 0;
+      width: 950px;
+      margin-left:auto;
+      margin-right:auto;
+      border: solid 3px #000000;
+  }
+  .box1 p {
+      font-size:25px;
+      margin: 0; 
+      padding: 0;
+  }
